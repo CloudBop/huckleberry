@@ -61,7 +61,7 @@ main {
   width: fit-content;
   background-color: hsl(45deg, 100%, 50%);
   border-bottom: hsl(45deg, 100%, 40%) solid 4px;
-  padding: 8px 12px;
+  padding: 8px 12px 8px 18px;
   margin-top: 4px;
   margin-left: -18px;
 }
